@@ -9,6 +9,14 @@ To create a simple programmer ESP8266 you will need three things
     <td align="center"><a ><img src="https://github.com/fenenko/SimpleESP8266/blob/main/3.jpg"></a></td>
   </tr> 
 </table>
+Solder the button as shown in the photo below
+<table>
+  <tr>
+    <td align="center"><a ><img src="https://github.com/fenenko/SimpleESP8266/blob/main/4.jpg"></a></td>
+   
+  </tr> 
+</table>
+
 
 
 
