@@ -5,8 +5,8 @@ To create a simple programmer ESP8266 you will need three things
 <table>
   <tr>
     <td align="center"><a ><img src="https://github.com/fenenko/SimpleESP8266/blob/main/1.png"></a></td>
-    <td align="center"><a href="https://github.com/RushOnline"><img src="https://github.com/RushOnline.png" width="100px;" alt="RushOnline"/><br /><sub><b>Eugene</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/absalom-muc"><img src="https://github.com/absalom-muc.png" width="100px;" alt="absalom-muc"/><br /><sub><b>absalom-muc</b></sub></a><br /></td>
+    <td align="center"><a ><img src="https://github.com/fenenko/SimpleESP8266/blob/main/2.png"></a></td>
+    <td align="center"><a ><img src="https://github.com/fenenko/SimpleESP8266/blob/main/3.jpg"></a></td>
   </tr> 
 </table>
 
