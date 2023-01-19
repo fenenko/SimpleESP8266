@@ -16,6 +16,9 @@ Solder the button as shown in the photo below
    
   </tr> 
 </table>
+We created a very simple programmer. For programming, press the button and connect the board to the PC. After programming, just reconnect the board and it will boot normally
+
+PS: If you liked this programmer, buy the author a coffee <a href="https://www.buymeacoffee.com/fenenkoG" title="Donate to my using BuyMeACoffee"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Donate to my  using BuyMeACoffee" style="height: 50px !important;width: 181px !important;" ></a>
 
 
 
